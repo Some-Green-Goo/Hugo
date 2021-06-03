@@ -1,4 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "This is the title in the config file."
 theme = "ananke"
+
+This is some simple text below all the config stuff. Does this pop up?
